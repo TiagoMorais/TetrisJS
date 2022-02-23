@@ -1,0 +1,12 @@
+.container{
+    background: gray;
+    margin: 0 auto;
+    width: 140px;
+    min-height: 100px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.score{
+    text-align: center;
+}
